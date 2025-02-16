@@ -1,5 +1,8 @@
-Po więcej wiadomości otwórz  ColabPotato_Velocity.ipynb
 
+![alt text][logo]
+
+[logo]: https://github.com/FranQ213/ColabPotato/blob/main/ColabPotato.png "Logo Title Text 2"
+Po więcej wiadomości otwórz  ColabPotato_Velocity.ipynb
 
 # **Velocity Versions**
 Velocity 1.21.4: https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velocity1_0.ipynb/file
