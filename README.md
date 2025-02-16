@@ -3,7 +3,7 @@
 
 [logo]: https://github.com/FranQ213/ColabPotato/blob/main/ColabPotato.png "Logo Title Text 2"
 Po więcej wiadomości otwórz  ColabPotato_Velocity.ipynb
-
+Uwaga! Dla osób które nie wiedzą. Żeby otworzyć ten plik trzeba wejść na stronę Google Colab, zalogować się i kliknąć w tworzeniu Prześlij! Więcej informacji na filmiku YouTube
 # **Velocity Versions**
 Velocity 1.21.4: https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velocity1_0.ipynb/file
 
