@@ -9,5 +9,6 @@ Velocity 1.21.4: https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velo
 
 
 # PaperMC Versions
-PaperMC 1.21.4: https://www.mediafire.com/file/nrh0emcv319hidk/ColabPotato_PaperMC1_0_0.ipynb/file
+PaperMC 1.0.1 (1.21.4): https://www.mediafire.com/file/80mxvuacdn6ughd/ColabPotato_PaperMC1_0_1.ipynb/file
+PaperMC 1.0.0 (1.21.4): https://www.mediafire.com/file/nrh0emcv319hidk/ColabPotato_PaperMC1_0_0.ipynb/file
 
