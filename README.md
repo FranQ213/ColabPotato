@@ -14,8 +14,8 @@ Aby uzyskać więcej informacji wejdz na discord **[Dolacz na discord](https://d
 ---
 
 ## **🚀 Velocity – Dostępne Wersje**  
-- **Velocity 1.21.4** ➝ [Pobierz](https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velocity1_0.ipynb/file)  
-
+- **Velocity 1.1.0 (1.21.4)** ➝ [Pobierz](https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velocity1_0.ipynb/file)  
+- **Velocity 1.2.0 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/Velocity/ColabPotatoVelocity-1.2.0.ipynb)  
 ---
 
 ## **🌍 PaperMC – Dostępne Wersje**  
