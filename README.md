@@ -2,7 +2,7 @@
 
 ![ColabPotato](https://github.com/FranQ213/ColabPotato/blob/main/ColabPotato.png "ColabPotato Logo")  
 
-Aby uzyskać więcej informacji wejdz na discord **[Dolacz na discord](https://discord.gg/mQy9y3fdh9)**.  
+Aby uzyskać więcej informacji wejdź na Discord **[Dołącz na Discord](https://discord.gg/mQy9y3fdh9)**.  
 
 ### **📂 Jak otworzyć plik w Google Colab?**  
 1️⃣ Wejdź na **[Google Colab](https://colab.research.google.com/)**.  
