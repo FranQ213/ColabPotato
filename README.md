@@ -1,4 +1,4 @@
-# **📌 ColabPotato Twoj serwer na Google Colab!**  
+# **📌 ColabPotato Twój serwer na Google Colab!**  
 
 ![ColabPotato](https://github.com/FranQ213/ColabPotato/blob/main/ColabPotato.png "ColabPotato Logo")  
 
