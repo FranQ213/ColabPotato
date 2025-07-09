@@ -19,6 +19,7 @@ Aby uzyskać więcej informacji wejdź na Discord **[Dołącz na Discord](https:
 ---
 
 ## **🌍 PaperMC – Dostępne Wersje**  
+- **PaperMC 1.4.0 (1.20.5 - 1.21.7)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/1.4.0/ColabPotato_PaperMC_1_4_0.ipynb)
 - **PaperMC 1.3.1 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/PaperMC1.3.1/ColabPotato_PaperMC_1_3_1.ipynb)
 - **PaperMC 1.3.0 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/Latest/ColabPotato_PaperMC_1_3_0.ipynb)
 - **PaperMC 1.2.0 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/papermc/ColabPotato-PaperMC.ipynb.txt)
