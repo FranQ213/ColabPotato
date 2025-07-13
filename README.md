@@ -13,12 +13,14 @@ Aby uzyskać więcej informacji wejdź na Discord **[Dołącz na Discord](https:
 
 ---
 
-## **🚀 Velocity – Dostępne Wersje**  
+## **🚀 Velocity – Dostępne Wersje** 
+- **Velocity 1.4.0 (1.20.5 - 1.21.7)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/1.4.0_Velocity/ColabPotato_Velocity_1_4_0.ipynb)
 - **Velocity 1.1.0 (1.21.4)** ➝ [Pobierz](https://www.mediafire.com/file/ha16mhj5yywwtwc/ColabPotato_Velocity1_0.ipynb/file)  
 - **Velocity 1.2.0 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/Velocity/ColabPotatoVelocity-1.2.0.ipynb)  
 ---
 
-## **🌍 PaperMC – Dostępne Wersje**  
+## **🌍 PaperMC – Dostępne Wersje**
+- **PaperMC 1.4.1 (1.20.5 - 1.21.7)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/1.4.1/ColabPotato_PaperMC_1_4_1.ipynb)
 - **PaperMC 1.4.0 (1.20.5 - 1.21.7)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/1.4.0/ColabPotato_PaperMC_1_4_0.ipynb)
 - **PaperMC 1.3.1 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/PaperMC1.3.1/ColabPotato_PaperMC_1_3_1.ipynb)
 - **PaperMC 1.3.0 (1.21.4)** ➝ [Pobierz](https://github.com/FranQ213/ColabPotato/releases/download/Latest/ColabPotato_PaperMC_1_3_0.ipynb)
